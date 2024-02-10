@@ -1,4 +1,4 @@
-// who is jek soull?
+// who is jek soull? heard of this before ?
 function getRandomInt() {
 	return Math.floor(Math.random() * 3);
 }
