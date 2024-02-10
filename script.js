@@ -1,3 +1,4 @@
+// who is jek soull?
 function getRandomInt() {
 	return Math.floor(Math.random() * 3);
 }
