@@ -60,7 +60,7 @@ function playGame(playerChoice, computerChoice) {
 		console.log(roundResults);
 		if (roundResults[0] === true) {
 			playerScore++;
-		} else {
+		} else if (roundResults[0] === false) {
 			computerScore++;
 		}
 
